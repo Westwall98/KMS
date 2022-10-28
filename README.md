@@ -2,9 +2,9 @@
 
 # 安装git并获取仓库
 
-yum install git
+sudo yum install git
 
-git clone --branch docker --single-branch https://github.com/Westwall98/KMS.git
+sudo git clone --branch docker --single-branch https://github.com/Westwall98/KMS.git
 
 cd ./KMS/
 
