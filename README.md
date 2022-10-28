@@ -34,8 +34,14 @@ slmgr /ato
 
 # Office激活系统方法 CMD
 
-cd C:\Program Files (x86)\Microsoft Office\Office16         //进入office2016 安装目录  如果你装的是office2013则把16改成13，以此类推
+cd C:\Program Files (x86)\Microsoft Office\Office16         #进入office2016 安装目录  如果你装的是office2013则把16改成13，以此类推
 
-cscript ospp.vbs /sethst:kms.westwall.vip                 //将激活服务器地址设置为 kms.westwall.vip
+cscript ospp.vbs /sethst:kms.westwall.vip                   #将激活服务器地址设置为 kms.westwall.vip
 
-cscript ospp.vbs /act                                       //激活office
+cscript ospp.vbs /act                                       #激活office
+
+# 激活验证
+
+slmgr /xpr                                                  #查看激活后的到期时间
+
+slmgr /dli                                                  #查看详细激活信息
