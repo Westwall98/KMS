@@ -36,7 +36,7 @@ slmgr /ato
 
 # Office激活系统方法 CMD
 
-cd C:\Program Files (x86)\Microsoft Office\Office16         #进入office2016 安装目录  如果你装的是office2013则把16改成13，以此类推
+cd C:\Program Files (x86)\Microsoft Office\Office16 #进入office2016 安装目录  如果你装的是office2013则把16改成13，以此类推
 
 cscript ospp.vbs /sethst:kms.westwall.vip
 
@@ -61,3 +61,13 @@ Windows 11/10 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX
 Windows 11/10 Enterprise | NPPR9-FWDCX-D2C8J-H872K-2YT43
 
 Windows 11/10 Enterprise G N | 44RPN-FTY23-9VTTB-MP9BX-T84FV
+
+# Windows版本详解
+
+Windows LTSB：企业版精简功能版
+
+Windows LTSC：企业版全功能版
+
+Windows G：政府版
+
+Windows N：系统不自带WMP
