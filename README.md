@@ -50,14 +50,15 @@ slmgr /dli #查看详细激活信息
 
 # 激活秘钥
 
-|Windows Server 2022 Standard | VDYBN-27WPP-V4HQT-9VMD4-VMK7H|
+------------- | -------------
+Windows Server 2022 Standard | VDYBN-27WPP-V4HQT-9VMD4-VMK7H
 
-|Windows Server 2019 Standard | N69G4-B89J2-4G8F4-WWYCC-J464C|
+Windows Server 2019 Standard | N69G4-B89J2-4G8F4-WWYCC-J464C
 
-|Windows Server 2016 Standard | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY|
+Windows Server 2016 Standard | WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY
 
-|Windows 11/10 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX|
+Windows 11/10 Pro | W269N-WFGWX-YVC9B-4J6C9-T83GX
 
-|Windows 11/10 Enterprise | NPPR9-FWDCX-D2C8J-H872K-2YT43|
+Windows 11/10 Enterprise | NPPR9-FWDCX-D2C8J-H872K-2YT43
 
-|Windows 11/10 Enterprise G N | 44RPN-FTY23-9VTTB-MP9BX-T84FV|
+Windows 11/10 Enterprise G N | 44RPN-FTY23-9VTTB-MP9BX-T84FV
