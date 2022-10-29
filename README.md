@@ -50,7 +50,6 @@ slmgr /dli #查看详细激活信息
 
 # 激活秘钥
 
-------------- | -------------
 Windows Server 2022 Standard | VDYBN-27WPP-V4HQT-9VMD4-VMK7H
 
 Windows Server 2019 Standard | N69G4-B89J2-4G8F4-WWYCC-J464C
